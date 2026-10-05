@@ -1,0 +1,1 @@
+HF_TOKEN = "XXXXXXXXXXXXXXXXXXXXXXXXXX" #add your own HuggingFace API Token
